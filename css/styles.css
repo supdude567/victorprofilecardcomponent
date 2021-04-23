@@ -1,0 +1,118 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+h3{
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight:700;
+  display: inline-block;
+}
+.anomaly{
+  font-size: 18px;
+  color: hsl(227, 10%, 46%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+  display: inline-block;
+
+}
+h4{
+  font-size: 18px;
+  color: hsl(227, 10%, 46%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+  display: inline-block;
+}
+.statname{
+  letter-spacing: 2px;
+  font-size: 9px;
+  color: hsl(0, 0%, 59%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+.background{
+  background-color: hsl(185, 75%, 39%);
+  width: 100%;
+  height: 600px;
+  margin-top: 500px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.bottomcircle{
+  position: absolute;
+  right: 0px;
+  top: 700px;
+  width:750px;
+  height:750px;
+}
+.topcircle{
+  position: absolute;
+  left:0px;
+  top:100px;
+  width:750px;
+  height:750px;
+}
+.card{
+  background-color: white;
+  height: 370px;
+  width: 325px;
+  position:absolute;
+  top: 640px;
+  right: 40%;
+  left:40%;
+  border-radius: 3%;
+}
+.cardimage{
+  width:325px;
+  height: 125px;
+  border-radius: 5%;
+}
+.victor{
+  border-radius: 50%;
+  position: absolute;
+  right:36%;
+  left:36%;
+  top:75px;
+  border-color: white;
+  border-width: 4px;
+  border-style: solid;
+}
+.name{
+  margin-left: 97px;
+}
+.firstline{
+  margin-top: 65px;
+  margin-bottom: 0;
+}
+.city{
+  font-size: 16px;
+  display: block;
+  margin-left: 135px;
+}
+th{
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight:700;
+  text-align: center;
+  padding: 7px;
+}
+table{
+  padding: 5px;
+  margin-top: 15px;
+  margin-left: 8px;
+  width: 295px;
+}
+.age{
+  margin-left: 10px;
+  font-size: 18px;
+  color: hsl(227, 10%, 46%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+  display: inline-block;
+}
+body{
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #F0F0F0;
+}
